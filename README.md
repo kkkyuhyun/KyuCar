@@ -9,7 +9,7 @@
 <body><b><u> * 렌터카 회사 페이지</b></u></body><br>
 <img src= "https://github.com/user-attachments/assets/e6977c8f-4adc-4346-98f2-435c9b940954" width=400 height=300><br>
 
-<body><b><u>* 거래 내역</b></u></body><br>
+
 <img src="https://github.com/user-attachments/assets/0628fbff-d1dc-462a-ae60-f27f0d092c3a" width=400 height=300><br>
 
 <body><b><u> * 차량 창고_현재 등록된 차량 확인 - 추가 수정 삭제 페이지 </b></u></body><br>
