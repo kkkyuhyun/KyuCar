@@ -2,26 +2,26 @@
 
 <body><b><u> * 메인 화면</b></u></body><br>
 <img src="https://github.com/user-attachments/assets/d14a8e0a-e491-488e-ba6a-49ce4e270ab8" width=400 height=300><br>
-
+<br>
 <body><b><u> * 렌터카 목록 페이지</b></u></body><br>
 <img src="https://github.com/user-attachments/assets/577f6d2f-6fd3-4e79-95b3-65e08e3fa707" width=400 height=300><br>
-
+<br>
 <body><b><u> * 렌터카 회사 페이지</b></u></body><br>
 <img src= "https://github.com/user-attachments/assets/e6977c8f-4adc-4346-98f2-435c9b940954" width=400 height=300><br>
-
-
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/0628fbff-d1dc-462a-ae60-f27f0d092c3a" width=400 height=300><br>
-
+<br>
 <body><b><u> * 차량 창고_현재 등록된 차량 확인 - 추가 수정 삭제 페이지 </b></u></body><br>
 <img src= "https://github.com/user-attachments/assets/68864a9c-68a9-47c8-93fd-07e04acd4687" width=400 height=300><br>
-
-
+<br>
+<br>
 <body><b><u>* 회사 창고_등록된 회사 확인- 추가 수정 삭제 페이지 </b></u></body><br>
 <img src="https://github.com/user-attachments/assets/c17f1848-037c-4b49-a7c9-28b44a8accd1" width=400 height=300><br>
-
+<br>
 <body><b><u>* 렌트 예약 폼</b></u></body><br>
 <img src="https://github.com/user-attachments/assets/d9a9f2ff-4a37-4e70-91b8-704574e1659b" width=400 height=300><br>
-
+<br>
 <body><b><u>* 결제 창</b></u></body><br>
 <img src="https://github.com/user-attachments/assets/f2d660a6-e1ec-479a-a6e6-ee42d7216a17" width=400 height=300><br>
 
